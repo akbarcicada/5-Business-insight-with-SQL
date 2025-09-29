@@ -10,26 +10,24 @@ Proyek ini menggunakan **Global Superstore Dataset** untuk mengeksplorasi dan me
 - **Shipping Speed by Priority** → evaluasi waktu pengiriman berdasarkan prioritas order.
 - **RFM Analysis** → segmentasi pelanggan berdasarkan Recency, Frequency, dan Monetary.
 
-## 📂 Struktur Repo
-/data/ → dataset kecil (jika disertakan)
-/notebooks/ → notebook SQL/Colab
-/reports/ → laporan PDF hasil analisis
-/presentation/ → presentasi PPT
-README.md → deskripsi proyek
-
-
-## 🚀 Teknologi
-- SQL (PostgreSQL)
-- Google Colab / Jupyter Notebook
-- Excel / CSV untuk dataset
-- PowerPoint & PDF untuk laporan dan presentasi
-
 ## 📌 Insight Utama
 - Staples mendominasi penjualan, perlu diversifikasi produk.  
 - Pasar utama: USA, dengan Australia & Meksiko sebagai target pengembangan.  
 - Teknologi & Office Supplies jadi profit driver utama.  
 - Pelanggan bernilai tinggi perlu program retensi (loyalty, re-engagement).  
-- Sistem prioritas pengiriman bekerja sesuai ekspektasi.  
+- Sistem prioritas pengiriman bekerja sesuai ekspektasi.
+
+## 📂 Struktur Repo
+/data/ → dataset kecil
+/notebooks/ → file .SQL (postgreSQL)
+/reports/ → laporan PDF
+/presentation/ → presentasi PPT
+README.md → deskripsi proyek
+
+## 🚀 Teknologi
+- **Kaggle** media pencarian dataset (sekunder)
+- **PostgreSQL** untuk query dan analisis
+- **PowerPoint & PDF** untuk laporan dan presentasi
 
 ---
 
