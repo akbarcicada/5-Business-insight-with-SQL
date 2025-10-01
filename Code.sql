@@ -57,4 +57,5 @@ SELECT customer_name
 AS recency
 , frequency
 , monetary
+
 FROM rfm ORDER BY monetary DESC;
